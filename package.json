@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "instagram-save": "^1.3.1"
+    "instagram-save": "github:bencevans/instagram-save"
   }
 }
